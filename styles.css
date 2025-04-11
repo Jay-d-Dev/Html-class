@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#splore-con{
+    padding: 10% 20%;
+}
+
+.logo_and_form_container{
+    padding: 5% 10%;
+    border: 0.5px solid;
+    border-color: dimgray;
+    text-align: center;
+}
+
+.logo_and_form_container>h1{
+    font-family: "Sansita Swashed", system-ui;
+    font-optical-sizing: auto;
+    margin: 3% 0 13%;
+}
+
+.OR-text{
+    margin-top: 5%;
+}
+
+.signup_container{
+    text-align: center;
+    padding: 5% 10%;
+    border: 0.5px solid;
+    border-color: dimgray;
+    margin-top: 3%;
+}
+
+
+.download-section{
+    text-align: center;
+    padding: 5% 10%;
+}
+
+.down-button{
+    padding: 2% 5%;
+    font-size: 95%;
+    margin-right: 4%;
+}
+
+/* {
+  font-family: "Sansita Swashed", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal; */
